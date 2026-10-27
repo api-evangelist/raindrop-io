@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Raindrop.io (bookmarks) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://raindrop.io/
+Raindrop.io is an all‑in‑one bookmark manager that lets users save, organize, and sync bookmarks across devices and browsers. It offers collections, tags, highlights, AI‑assisted search, and integrations with services like Dropbox, Google Drive, and various browsers. The platform provides a web app, desktop apps, and mobile apps, supporting collaboration, backup, and public sharing of bookmark collections. Raindrop.io emphasizes security with SSL, VPC‑protected architecture, and no ads or trackers.
+
+**Areas:** Bookmark · Productivity · Cloud · Collaboration · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://raindrop.io/)
+- [Documentation](https://help.raindrop.io/)
+- [Getting started](https://developer.raindrop.io/)
+- [API reference](https://developer.raindrop.io/)
+- [Pricing](https://raindrop.io/pro/buy)
+- [Changelog](https://developer.raindrop.io/more/changelog)
+- [Blog](https://blog.raindrop.io/)
+- [Security](https://help.raindrop.io/security)
+- [Terms of service](https://help.raindrop.io/terms)
+- [Privacy policy](https://help.raindrop.io/privacy)
+- [GitHub](https://github.com/raindropio)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/raindrop-io/](https://apis.io/providers/raindrop-io/).
